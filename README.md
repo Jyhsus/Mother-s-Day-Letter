@@ -64,7 +64,7 @@ El objetivo es proporcionar una experiencia tecnológica accesible que combine a
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Jyhsus/Mother-s-Day-Letter.git
 
 2. Abre el proyecto en Unity 6.1 o superior.
 
