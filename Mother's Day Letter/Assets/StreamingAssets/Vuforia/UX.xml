@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Jimbo" size="1.000000 1.338028" />
+    <ImageTarget name="carta" size="1.000000 1.500000" />
+    <ImageTarget name="Jimbo" size="1.000000 1.338006" />
   </Tracking>
 </QCARConfig>
